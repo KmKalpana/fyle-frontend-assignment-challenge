@@ -43,3 +43,4 @@ Visit the [Angular Documentation](https://angular.io/guide/styleguide) to learn 
 Styling is to be strictly done with [Tailwind](https://tailwindcss.com/docs/installation).# fyle-frontend-assignment-challenge
 # fyle-frontend-assignment-challenge
 # fyle-frontend-assignment-challenge
+# fyle-frontend-assignment-challenge
